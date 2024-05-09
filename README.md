@@ -11,3 +11,7 @@
 ![github](https://starchart.cc/LKS9616/lks9616.svg)
 
 ![github](https://img.shields.io/github/last-commit/LKS9616/lks9616.svg)
+
+![github](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+![github](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
